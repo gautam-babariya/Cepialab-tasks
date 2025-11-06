@@ -8,7 +8,7 @@
 // c) Props are immutable and flow parent → child 
 
 // 4. In React, event handlers are written in:
-// c) camelCase 
+// c) camelCase  
 
 // 5. What does React use for efficient DOM updates?
 // b) Virtual DOM 
